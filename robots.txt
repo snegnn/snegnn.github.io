@@ -1,2 +1,2 @@
 User-agent: *
-Host: finpoisk.ru
+Host: snegnn.net
